@@ -1,4 +1,4 @@
-# Defcon 32 Tor Badge / SAO Manual
+# Defcon 32 Tor Mini-Badge / SAO Manual
 ![badge image](https://i.imgur.com/eSLzSpd.jpg "pile of badges")
 ****
 [Here's a feature overview in video form](https://youtu.be/Rasb8VQQdyw)
