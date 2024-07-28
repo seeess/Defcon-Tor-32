@@ -22,6 +22,8 @@ Alternatively, if you don’t have a main badge to plug this Tor board into for 
 
 **Do NOT** attempt to power the Tor board from both the provided battery and a “main” badge through the SAO header simultaneously. 
 
+![leashed](https://i.imgur.com/2Fb412E.jpg "SAO leashed example") ![battery](https://i.imgur.com/Tf1sJCn.jpg "Battery powered on lanyard")
+
 ### Basic Functionality
 On power up the Tor SAO enters the last LED blinking mode. Pressing the button will cycle to the next LED blinking mode. 
  
